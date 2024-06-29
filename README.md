@@ -1,2 +1,3 @@
-# bglock-timer
-bglock-timer
+# TimeCounter
+It's a work time counter
+# refactored-succotash
